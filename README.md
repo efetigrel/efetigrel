@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/efetigrel" target="blank"><img src="https://img.shields.io/twitter/follow/efetigrel?logo=twitter&style=for-the-badge" alt="efetigrel" /></a> </p>
 
-- 💬 Ask me about **Html , Css , Bootstrap , SASS , SCSS , Javascript , C# , Flutter**
+- 💬 Ask me about **Html , Css , Bootstrap , SASS , SCSS , Javascript , C# , ASP.NET Core , Flutter**
 
 - 📫 How to reach me **efetigrel@gmail.com**
 
